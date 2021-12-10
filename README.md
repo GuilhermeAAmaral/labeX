@@ -11,5 +11,6 @@ Parte Privada/Administrador:  Login, criação, remoção de viagens, aprovaçã
 Ferramentas, dependências e libs instaladas: React JS, Axios, Styled-Components e React Router Dom. 
 
 Deploy:  http://guilhermeamaral-labex.surge.sh/ 
+
 Rodando o projeto localmente: Faça o clone do repositório, navegue ate a pasta destino, utilize o comando npm install, rode o projeto com o comando npm run start.
 
